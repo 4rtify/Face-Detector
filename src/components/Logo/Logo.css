@@ -1,0 +1,13 @@
+.Tilt {
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+}
+
+.Logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Logo img{
+    width: 120px;
+    height: 120px;
+}
